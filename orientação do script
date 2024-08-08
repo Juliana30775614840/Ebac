@@ -1,0 +1,6 @@
+Esse script foi desenvolvido no linux/ubuntu e pode ser  utilizado tanto o editor nano ou vim para manipulação do código.
+Caso precise instalar o vim ou o nano você pode usar os códigos <sudo apt install vim> ou <sudo apt install nano>
+Para o script com extensão .sh voce deve ir até o diretório do arquivo como no exemplo e ver se o arquivo é executavel  <chmod +x nome_do_arquivo.sh> e depois executá-lo com o código <./nome_do_arquivo.sh> nesse arquivo como vai poder observar é necessário o comando echo"  ",
+para cada impressão, diferente já para impressão em python que usa o input para impressão da frase e o arquivo precisa esta salvo com a extensão .py.
+Para executar o arquivo python precisa conferir se o mesmo está instalado no seu terminal com o comando <sudo apt install python> e tambem verificar qual a versão do programa, geralmente é python3.8 mais alguma coisa e tambem precisa deixá-lo como executável <chmod +x nome_do_arquivo.py> e depois executá-lo <python3 nome_do_arquivo.py>.
+  
